@@ -2,13 +2,17 @@
 
 1. Training cycleGAN
 
-   ![Alt text](./images/0001.png)
+   
 
    
 
 2. Inference cycleGAN in personal image
 
-   ![Alt text](./images/0006.png)
+   ![Alt text](./A/0001.png)
+
+   ![Alt text](./A/0003.png)
+
+   ![Alt text](./A/0006.png)
 
    
 
