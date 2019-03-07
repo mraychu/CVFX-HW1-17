@@ -137,4 +137,4 @@
 
    > Analysis
 
-   
+   According to the above results, we think that if the source image is a single color, the effect of the generated image is barely satisfactory. However, if the source image is a multiple color, the effect of the generated image is mostly terrible. In conclusion, the quality of transfered image by this algorithm is based on the color distribution of the source image.
