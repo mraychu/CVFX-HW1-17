@@ -85,7 +85,7 @@
 
    ![Alt text](./SuperFastColorTransfer/orange2apple2.PNG "orange2apple")
 
-   ![Alt text](./SuperFastColorTransfer/orange2apple3.PNG "orange2apple")
+   ![Alt text](./SuperFastColorTransfer/orange2apple3.png "orange2apple")
 
    > Dataset — iphone2dslr_flower
 
