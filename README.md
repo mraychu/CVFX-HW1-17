@@ -104,3 +104,37 @@
    > Analysis
 
    According to the above results, we think that the effect isn't as good as our expected. Because this algorithm focuses on the performance part, just calculate the mean and standard deviation of the image channels to do the color transfer. However, cycleGAN algorithm consumes more performance and lots of time in the training process, but the generated image is better than the output by this algorithm. 
+
+   2. ColourGrading（<http://www.mee.tcd.ie/~sigmedia/Research/ColourGrading>）
+
+   > Dataset — apple2orange
+
+   ![Alt text](./ColourGrading/apple2orange3.PNG "apple2orange")
+
+   ![Alt text](./ColourGrading/apple2orange2.PNG "apple2orange")
+
+   ![Alt text](./ColourGrading/apple2orange1.PNG "apple2orange")
+
+   ![Alt text](./ColourGrading/orange2apple2.PNG "orange2apple")
+
+   ![Alt text](./ColourGrading/orange2apple3.PNG "orange2apple")
+
+   ![Alt text](./ColourGrading/orange2apple1.PNG "orange2apple")
+
+   > Dataset — iphone2dslr
+
+   ![Alt text](./ColourGrading/iphone2dslr1.PNG "iphone2dslr")
+
+   ![Alt text](./ColourGrading/iphone2dslr3.PNG "iphone2dslr")
+
+   ![Alt text](./ColourGrading/iphone2dslr2.PNG "iphone2dslr")
+
+   ![Alt text](./ColourGrading/dslr2iphone3.PNG "dslr2iphone")
+
+   ![Alt text](./ColourGrading/dslr2iphone1.PNG "dslr2iphone")
+
+   ![Alt text](./ColourGrading/dslr2iphone2.PNG "dslr2iphone")
+
+   > Analysis
+
+   
