@@ -109,31 +109,31 @@
 
    > Dataset — apple2orange
 
-   ![Alt text](./ColourGrading/apple2orange3.PNG "apple2orange")
+   ![Alt text](./ColourGrading/apple2orange3.png "apple2orange")
 
-   ![Alt text](./ColourGrading/apple2orange2.PNG "apple2orange")
+   ![Alt text](./ColourGrading/apple2orange2.png "apple2orange")
 
-   ![Alt text](./ColourGrading/apple2orange1.PNG "apple2orange")
+   ![Alt text](./ColourGrading/apple2orange1.png "apple2orange")
 
-   ![Alt text](./ColourGrading/orange2apple2.PNG "orange2apple")
+   ![Alt text](./ColourGrading/orange2apple2.png "orange2apple")
 
-   ![Alt text](./ColourGrading/orange2apple3.PNG "orange2apple")
+   ![Alt text](./ColourGrading/orange2apple3.png "orange2apple")
 
-   ![Alt text](./ColourGrading/orange2apple1.PNG "orange2apple")
+   ![Alt text](./ColourGrading/orange2apple1.png "orange2apple")
 
    > Dataset — iphone2dslr
 
-   ![Alt text](./ColourGrading/iphone2dslr1.PNG "iphone2dslr")
+   ![Alt text](./ColourGrading/iphone2dslr1.png "iphone2dslr")
 
-   ![Alt text](./ColourGrading/iphone2dslr3.PNG "iphone2dslr")
+   ![Alt text](./ColourGrading/iphone2dslr3.png "iphone2dslr")
 
-   ![Alt text](./ColourGrading/iphone2dslr2.PNG "iphone2dslr")
+   ![Alt text](./ColourGrading/iphone2dslr2.png "iphone2dslr")
 
-   ![Alt text](./ColourGrading/dslr2iphone3.PNG "dslr2iphone")
+   ![Alt text](./ColourGrading/dslr2iphone3.png "dslr2iphone")
 
-   ![Alt text](./ColourGrading/dslr2iphone1.PNG "dslr2iphone")
+   ![Alt text](./ColourGrading/dslr2iphone1.png "dslr2iphone")
 
-   ![Alt text](./ColourGrading/dslr2iphone2.PNG "dslr2iphone")
+   ![Alt text](./ColourGrading/dslr2iphone2.png "dslr2iphone")
 
    > Analysis
 
